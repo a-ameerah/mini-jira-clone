@@ -31,3 +31,8 @@ Built with **Python**, **Tkinter** for the GUI, and **SQLite** for local data st
 2. Run the app:
    ```bash
    python mini_jira_clone.py
+
+<img width="625" height="539" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/a9143906-ad7a-46cd-85ef-2e465d98e90c" />
+<img width="808" height="728" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/8557d461-9375-4ec0-b792-c540f737fb91" />
+
+
