@@ -29,4 +29,5 @@ Built with **Python**, **Tkinter** for the GUI, and **SQLite** for local data st
    git clone https://github.com/a-ameerah/mini-jira-clone.git
    cd mini-jira-clone
 2. Run the app:
+   ```bash
    python mini_jira_clone.py
